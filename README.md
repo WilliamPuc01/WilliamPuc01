@@ -57,10 +57,6 @@ No formal role yet — but my projects reflect real engineering work:
 ### 💬 WhatsApp AI Assistant
 > Conversational AI chatbot for small businesses to automate customer service over WhatsApp.
 
-<p align="center">
-  <img src="https://via.placeholder.com/700x320/1e293b/3B82F6?text=WhatsApp+AI+Bot+Demo" alt="WhatsApp Bot Preview" width="700"/>
-</p>
-
 **Stack:** `Node.js` `TypeScript` `Z-API` `Railway`  
 🔗 [Repository](https://github.com/WilliamPuc01)
 
@@ -68,10 +64,6 @@ No formal role yet — but my projects reflect real engineering work:
 
 ### ✅ Task Management API
 > RESTful API with JWT authentication, typed end-to-end, live-deployed with a React frontend.
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x320/1e293b/3B82F6?text=API+Tarefas+Demo" alt="Task API Preview" width="700"/>
-</p>
 
 **Stack:** `Node.js` `Express` `TypeScript` `Prisma` `PostgreSQL`  
 🔗 [Backend](https://github.com/WilliamPuc01/api-tarefas) • [Frontend](https://github.com/WilliamPuc01/frontend-tarefas)
