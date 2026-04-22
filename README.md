@@ -86,7 +86,7 @@ No formal role yet — but my projects reflect real engineering work:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WilliamPuc01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=WilliamPuc01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamPuc01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6"/>
 
 </div>
