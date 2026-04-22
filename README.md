@@ -111,13 +111,4 @@ Actively seeking **internship** or **junior developer** opportunities to contrib
 
 </div>
 
----
 
-### ✨ Fun Fact
-> My first real side project was a bot that monitors BTS concert ticket drops — because sometimes the best way to learn web scraping is when you actually need the tickets. 🎤
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer)
-
-</div>
