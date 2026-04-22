@@ -49,10 +49,6 @@ No formal role yet — but my projects reflect real engineering work:
 ### 🍽️ FichaChef — Full-Stack SaaS
 > Technical sheet management for professional kitchens, with AI-generated recipes and automated PDF reports.
 
-<p align="center">
-  <img src="https://via.placeholder.com/700x320/1e293b/3B82F6?text=FichaChef+Demo+GIF" alt="FichaChef Preview" width="700"/>
-</p>
-
 **Stack:** `Next.js` `NestJS` `MongoDB` `JWT` `Claude API` `PDFKit`  
 🔗 [Repository](https://github.com/WilliamPuc01)
 
