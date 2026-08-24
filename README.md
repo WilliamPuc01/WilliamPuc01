@@ -8,11 +8,9 @@ Hands-on experience building backend servers, automated data pipelines, and micr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WilliamPuc01&show_icons=true&theme=tokyonight&hide_border=true" alt="William's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamPuc01&theme=tokyonight&hide_border=true" alt="William's GitHub Streak" />
+  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-success?style=for-the-badge&logo=codefactor" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Backend_&_Architecture-orange?style=for-the-badge" alt="Focus" />
 </p>
 ---
 
