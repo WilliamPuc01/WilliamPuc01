@@ -5,14 +5,15 @@
 Hands-on experience building backend servers, automated data pipelines, and microservices through academic and capstone projects, alongside practical experience in native Android development and information security fundamentals.
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamPuc01&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="William's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilliamPuc01&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="William's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WilliamPuc01&show_icons=true&theme=tokyonight&hide_border=true" alt="William's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamPuc01&theme=tokyonight&hide_border=true" alt="William's GitHub Streak" />
+</p>
 ---
 
 ### 🎓 Education & Certifications
